@@ -9,6 +9,7 @@ implicit none
 	enddo
 
 	write(*,*)"abc"
+	write(*,*)"def"
 end
 
 	
