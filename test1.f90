@@ -6,6 +6,7 @@ implicit none
 	do j=1,2
 		write(*,*) "Hello World",j
 		write(*,*) " "
+		write(*,*) " next!"
 	enddo
 
 	write(*,*)"abc"
